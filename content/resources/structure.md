@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: structure.pdf
 uid: 9d17ccb0-ae9c-3745-9fbc-6ba0627f8697
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: critical.pdf
 uid: 9fa60f33-be8e-d82f-7b29-284f15e3edaa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

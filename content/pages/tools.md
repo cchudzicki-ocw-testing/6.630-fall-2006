@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: f91abf67-93d6-ab06-09d8-68efec359e08
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains MATLAB® scripts, and resulting outputs, which help to demonstrate principles of electrodynamics covered in the course.
@@ -29,7 +33,7 @@ Matlab® SCRIPTS / DEMO TOPICS
 {{< tdopen >}}
 Hertzian Dipole ([MP4](/ans7870/6/6.630/f06/tools/dipole.mp4))  
   
-Matlab® Script, dipole.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/dipole.m))
+Matlab® Script, dipole.m ({{% resource_link d7ddef90-4afe-f537-9246-f1f7123c33dc "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Matlab® Script, dipole.m ([M](/courses/electrical-engineering-and-computer-scie
 {{< tdopen >}}
 Wave Propagation in Free Space ([MP4](/ans7870/6/6.630/f06/tools/freespace.mp4))  
   
-Matlab® Script, media.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/media.m))
+Matlab® Script, media.m ({{% resource_link 816cb733-69b4-e88e-4d33-33345b5929fb "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +109,7 @@ VSWP of a Quarter Wave Transformer for the Mismatched Case ([MP4](/ans7870/6/6.6
 {{< tdopen >}}
 Wave in a very Lossy Medium ([MP4](/ans7870/6/6.630/f06/tools/lossy.mp4))  
   
-Matlab® Script, media.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/media.m))
+Matlab® Script, media.m ({{% resource_link 816cb733-69b4-e88e-4d33-33345b5929fb "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +120,7 @@ Matlab® Script, media.m ([M](/courses/electrical-engineering-and-computer-scien
 {{< tdopen >}}
 Wave in a Plasma Medium ([MP4](/ans7870/6/6.630/f06/tools/plasma.mp4))  
   
-Matlab® Script, media.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/media.m))
+Matlab® Script, media.m ({{% resource_link 816cb733-69b4-e88e-4d33-33345b5929fb "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +138,7 @@ Propagation of a UPW Through a Rectangular Aperture: ([MP4](/ans7870/6/6.630/f06
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Resonator, res.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/res.m))  
+Resonator, res.m ({{% resource_link 9a861890-3048-47f4-e12f-edd56bf09b3e "M" %}})  
   
 High-Q ([MP4 - 5.6MB](/ans7870/6/6.630/f06/tools/high_q.mp4)), Low-Q ([MP4 - 5.5MB](/ans7870/6/6.630/f06/tools/low_q.mp4))  
   
@@ -156,7 +160,7 @@ Transients on Transmission Lines ([MPEG - 4.4MB](/ans7870/6/6.630/f06/tools/Tlin
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Reflection Coefficients, refl\_coef.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/refl_coef.m))
+Reflection Coefficients, refl\_coef.m ({{% resource_link a26c8b2e-b39f-9f6e-a828-9fb86e35de0c "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +169,7 @@ Reflection Coefficients, refl\_coef.m ([M](/courses/electrical-engineering-and-c
 15
 {{< tdclose >}}
 {{< tdopen >}}
-3D Dipole Array Patterns, dparray3.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/dparray3.m))
+3D Dipole Array Patterns, dparray3.m ({{% resource_link ee7e6fb2-4b2c-88c6-d6ab-810fbe23f352 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

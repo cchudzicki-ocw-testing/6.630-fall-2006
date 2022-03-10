@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: resonator.pdf
 uid: fbe25ed0-bbbe-697c-896c-0408d51cbe7f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

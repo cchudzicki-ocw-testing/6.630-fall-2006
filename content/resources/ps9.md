@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps9.pdf
 uid: 7b19dc30-b42f-209d-793b-04601a1d9929
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

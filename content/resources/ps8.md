@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps8.pdf
 uid: 46694c74-6944-221e-4c8b-876d869977db
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

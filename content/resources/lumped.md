@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lumped.pdf
 uid: 64409b23-2467-74a6-2477-edd373d5ac0b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: brewster.pdf
 uid: d49df5ac-2e2c-1547-4db7-5322e4a20a9f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

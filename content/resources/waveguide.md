@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: waveguide.pdf
 uid: c4c511cd-b74b-c9ba-b772-d1b44a31a9d4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

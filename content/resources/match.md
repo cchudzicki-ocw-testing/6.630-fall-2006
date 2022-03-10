@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: match.pdf
 uid: 42efab56-d2d6-55bb-e828-40d012d4ca94
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

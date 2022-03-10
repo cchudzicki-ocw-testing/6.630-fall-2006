@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 1280d609-2cad-b1f8-a7a7-bdaa6ec01962
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The readings for the course were taken from the required textbook, which was written by the course instructor.

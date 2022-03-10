@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: 389ec559-bff1-dd7d-1c0a-b11e71e43d7b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These handouts accompany and summarize the physical electrodynamics demonstrations shown during class.

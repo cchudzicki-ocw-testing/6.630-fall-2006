@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: evanescent.pdf
 uid: 0602d912-b209-688b-a3ab-5140a4669505
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

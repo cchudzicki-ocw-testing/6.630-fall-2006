@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: e2b60983-a131-0aca-8075-63e2cf7aa577
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem Set 1 ({{% resource_link ab44826b-e263-4569-c413-bf0c84b1e2ac "PDF" %}})

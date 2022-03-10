@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: dipole.pdf
 uid: a1c03beb-ac5c-6eb5-e8e0-92407577fd1f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
